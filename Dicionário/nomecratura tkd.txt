@@ -1,0 +1,285 @@
+Dicionário de palavras da língua coreana utilizadas frequentemente no Taekwondo.
+
+Tae: pé
+Kwon: mão
+Do: arte, método, caminho
+
+TaeKwonDo: Caminho dos pés e das mãos
+
+CONTAGEM
+Hanná: Um
+Tull: Dois
+Sêt: Três
+Nêt: Quatro
+Dasôt: Cinco
+Iosôt: Seis
+Ilgôb: Sete
+Iodoll: Oito
+Ahop: Nove
+Iol: Dez
+Su-mull: Vinte
+Sol-hun: Trinta
+Ma-hun: Quarenta
+Shi-hun: Cinquenta
+Ye-sun: Sessenta
+Il-hun: Setenta
+Yo-dun: Oiteta
+A-hun: Noventa
+Beck: Cem
+Tchon: Mil
+
+ORDENS DE COMANDO
+Kuryong: Comando
+Tchariot: Sentido
+Son-So: Juramento
+Murub Kuro: Ajoelhar-se
+Irossôt: Levantar-se
+Tio gá: Correr
+Kalhyo: Separar
+AnDja: Sentar
+Ki Rab: Grito
+Ke-Shi: Contar até 10
+Retchio: Debandar, abrir
+Shijak: Começar
+Shiô: Descansar
+Bal Bakugui: Trocar de Perna
+Jua-u-Hyang-u: Ficar frente à frente
+Kuman: Parar
+Tirô Tora: Meia volta
+Jumbi: Preparar
+Barô: voltar, parar
+Kesok: continuar
+
+ 
+
+FAIXAS
+Ti: Faixa
+Si Sha Ti: Exame de Faixa
+
+ 
+
+INSA (CUMPRIMENTO)
+Kiugné: Saudação
+Kuki e Derraio Kiugné: Saudação as Bandeiras
+Do-Djan Kiunhe: Saudação a Sala de Aula
+Kwan Ja Nim Kiugné: Saudação ao Grão Mestre
+Sa Bo Nim Kiugné: Saudação ao Mestre
+Kio Sa Nim Kiugné: Saudação ao Instrutor
+Jo Kio Nim Kiugné: Saudação ao Assistente
+Anhión Rasseio: Tudo bem
+Gansa Ram: Nida Obrigado
+Nê ou Ié: Sim
+
+BANG HYANG (DIREÇÕES) E NOPI (ALTURA)
+Orun: Lado Direito
+Uen: Lado Esquerdo
+Saju: 4 direções
+Olgul: Rosto
+Monton: Tronco
+Arê: Baixo
+Yop: Lado
+Dui: Atrás
+Ap: Frente
+Pakat: Fora
+An: Dentro
+Pitrô: Diagonal p/ Fora
+Aproka: Deslocar-se p/ frente
+Tiroka: Deslocar-se p/ trás
+Uroka: Deslocar-se para a direita
+Tcharoka: Deslocar-se para a esquerda
+
+ 
+
+KYONG-KI (COMPETIÇÃO): SHIHAP
+Kyong Ki Jang: Área de Competição
+Thong: Azul
+Hong: Vermelho
+Tche Gub: Categoria
+Ke Tchue: Pesagem
+Tchu Tchom: Sorteio
+Kyong Ki Shi Gan: Duração de Combate
+Tue Jang: Retirada do Local
+Seung Já: Vencedor
+Son On: Declaração
+Duktchon: Ponto Ganho
+Kamtchon: Ponto Perdido
+Kyongo: Advertência
+Jonkwang Fan: Painel eletrônico
+Sil Kyok: Desclassificação
+Fo Gui: Desistência
+Fan Jong: Decisão
+Palmok Bohode: Protetor de braço
+Jungani Bohode: Protetor de canela
+
+KYORUGUI: COMBATE
+Mathuo Kyorugui: Luta combinada
+Sebon Kyorugui: Luta combinada de três passos
+Jaiu Kyorugui: Luta livre-combate
+Shihap Kyorugui: Luta de competição
+Hogu Kyorugui: Luta com protetor de tórax
+Ran Bon (il Bo) Kyorugui: Luta combinada de um passo
+Step Kyorugui: Luta com Step
+Iaksok Kyorugui: Luta combinada simulada-sombra
+Hoshin Kyorugui: Luta de defesa pessoal
+Il De Kyorugui: Luta de dois contra um
+Andja Kyorugui: Luta sentada
+
+ 
+
+SOGUI: BASE
+Pyoni Sogui: Base à vontade
+Tchariôt Sogui: Base de sentido
+Moa Sogui: Base com os pés fechados (unidos)
+Naran-hi Sogui: Base com os pés abertos na largura do ombro
+Jutchum Sogui: Base sentado (agachado)
+Orun Sogui: Base pelo lado direito
+Uen Sogui: Base pelo lado esquerdo
+Ap Sogui: Base frontal (passo norma)
+Ap kubi: Base de passo penetrado
+Duit kubi: Base em “L”
+Boom Sogui: Base de leopardo
+Natchuo Sogui: Base mais agachado do que o Jutchum Sogui
+Kyot Dari Sogui: Base encostada entre dois pés
+Duit Koa Sogui: Base com os pés cruzados por trás
+Ap Koa Sogui: Base com os pés cruzados pela frente
+Hakdari Sogui: Base c/ um pé no chão e outra perna próxima a lateral do joelho
+Ogum Sogui: Base c/ um pé no chão e outra perna na região proplítea do joelho
+
+KIBON DONJAK (APLICAÇÃO MOVIMENTOS)
+Jirugui: Soco
+Tchigui: Bater
+Jirgui: Perfurar
+Rulki: Arranhar
+Makki: Defesa
+Rurigui: Arrancar
+Pegui: Retirar
+Tchagui: Chute
+Oligui: Levantar
+Milgui: Empurrar
+Pyogui: Abrir
+
+SON (MÃO)
+Sonnal: Lateral da mão aberta
+Sonnal Dung: Região abdutor do polegar da mão aberta
+Son Dung: Dorso da mão
+Pyon Sonkut: Pontas do dedo da mão aberta
+Kauwi Sonkut: Ponta dos dedos em forma de tesoura (dedo indicador e médio)
+Ran Sonkut: Ponta do dedo indicador
+Mo Dum Sonkut: Duas pontas do dedo, juntas dos dedos indicador e médio Batang Son = Base da palma da mão
+Kom Son: Mão em forma de “pata de urso”
+Agui Son: Região abdutor dos dedos polegar e indicador
+Son Mok: Pulso
+
+JIRUGUI (SOCO)
+Bandê Jirugui: Soco direto (mesma mão da perna da frente)
+Barô Jirugui: Soco indireto (mão contrária da perna da frente)
+Ap Jirugui: Soco para frente
+Olgul Jirugui: Soco no rosto
+Montong Jirugui: Soco no tronco
+Arê Jirugui: Soco para baixo
+Nerio Jirugui: Soco descendo
+Yop Jirugui: Soco para o lado
+Seo Jirugui: Soco com o dorso do punho virado para o lado
+Jetchio Jirugui: Soco com a mão virada
+Tchigui Jirugui: Soco batendo
+Dolio Jirugui: Soco curvado para a lateral (circular)
+Dui Jirugui: Soco para trás
+Pyojok Jirugui: Soco no alvo
+Dangkyo Tok Jirugui: Puxar e soco no queixo
+
+JUMOK(PUNHO FECHADO)
+Pyon Jumok: Punho aberto
+Bam Jumok: Punho com os dedos dobrados
+Jip-Ke Jumok: Punho com os dedos do polegar e indicador
+Me Jumok: Punho lateral – lado do mínimo
+Dung Jumok: Punho com as costas da mão
+
+TCHIGUI ( BATER)
+Mok Tchigui: Bater no pescoço
+Pakat Tchigui: Bater para fora
+Ap Tchigui: Bater para frente
+Tok Tchigui: Bater no queixo
+Yop Tchigui: Bater para o lado
+Pyojok Tchigui: Bater contra o alvo
+Montong Tchigui: Bater no peito
+Dui Tchigui: Bater para trás
+Nerio Tchigui: Bater descendo
+An Tchigui: Bater para dentro
+Olio Tchigui: Bater levantando
+Dolio Tchigui: Bater virado
+
+JIRGUI (PERFURAR)
+Seo Jirgui: Perfurar com a mão na lateral
+O-Fô Jirgui: Perfurar com as costas da mão para cima
+Jetchio Jirgui: Perfurar com a palma da mão para cima
+Sonkut Jirgui: Perfurar com a ponta da mão
+
+PAL ( BRAÇO)
+Palkup: Cotovelo
+Palmok: Região do Pulso
+Pakat Palmok: Face medial do antebraço
+An Palmok: Face lateral do antebraço
+Dung Palmok: Face posterior do antebraço
+Mit Palmok: Face anterior do antebraço
+
+MAKI ( DEFESA)
+Arê Makki: Defesa embaixo
+Montong Makki: Defesa no tronco
+Olgul Makki: Defesa no rosto
+Retchio Makki: Defesa abrindo o antebraço
+Yop Makki: Defesa na lateral
+Otkoro Makki: Defesa com os braços cruzados
+Godurô Makki: Defesa com o outro braço apoiado
+Pakat Makki: Defesa para fora
+An Makki: Defesa para dentro
+Nulô Maki: Defesa pressionando
+Pitrô Makki: Defesa torcendo
+Tchukio Makki: Defesa levantando
+
+DARI (PERNA)
+Murup: Joelho
+Jungani: Canela
+
+BAL ( PÉ)
+Ap Tchuk: Parte da frente do pé
+Duichuk: Parte de trás da sola do pé
+Balkut: Ponta dos dedos dos pés
+Bal Nal: Borda do pé (faca do pé)
+Bal Bakat: Planta do pé
+Bal Dung: Dorso do pé
+Duikuntchi: Calcanhar
+
+TCHAGUI(CHUTE)
+Aptcha Oligui: Levantando a perna para frente
+Tigô Tchagui: Chute enfiando
+Nerio Tchagui: Chute descendo
+Ap Tchagui: Chute frontal
+Dolio Tchagui: Chute virando lateral
+Yop Tchagui: Chute com a faca do pé
+Pitrô Tchagui: Chute diagonal para fora
+Bandê Tchagui: Chute para dentro (Ap Dollyo Tchagui)
+Mirô Tchagui: Chute empurrando
+Duit Tchagui: Chute para trás (Coice)
+Hurio Tchagui: Chute arrancando
+Mondolio Tchagui: Chute giratório (Bandê dolio Tchagui)
+Go-Dup Tchagui: Chute em seguida
+Mo-Dum Bal Tchagui: Chute com os pés juntos
+Dangsan Tchagui: Chute duplo com salto
+Ilja Tchagui: Chute em uma linha reta
+Pot-Ô Tchagui: Chute esticado frontal
+Nakó Tchagui: Chute pescada
+Pakat Tchagui: Chute circular para fora
+An Tchagui: Chute circular para dentro
+Jap-Go Tchagui: Chute segurando
+Gulô Tchagui: Chute escorregando
+Tuio Tchagui: Chute com salto
+Kauwi Tchagui: Chute com formato de tesoura
+Sok-Ó Tchagui: Chute misturado
+Iô Tchagui: Chute repetido
+Tuksu Tchagui: Chute específico
+Da Bang Hyang Tchagui: Chute com mais de duas repetições
+
+FAIXA PRETAS
+Jo Kio Nim: Ajudante Kio Sa Nim: Professor
+Sa Bo Nim: Mestre
+Kwan Ja Nim: Grão – Mestre 
